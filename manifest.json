@@ -1,0 +1,22 @@
+{
+  "short_name": "Blogger App",
+  "name": "Gachaverse.id",
+  "description": "Ini adalah PWA untuk blog saya.",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq-BRfUI3A6yZLNM_ggBGoXXlLwFUPUmMP45nMLVZTbvxqo0cse9L9X952-u0Ysll4b94cfA7HfHuDebbH6SHR1g6wGuomLVAa0z6v91y0LXDq2lN6QzpYmnW5rXpJvptzJq92xbIj5ZFstLiGOjdFva6gNEM38TpZiuZ3_Tpv5CkMPvMR1SHD9rKButw/s1600/212.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip085dqFpYC6_QKr0bKTtThB1XfwgUmxsZH7FVp6QgfM54rMrqnHR6pARO0t3rbVQ_AsKrz5hkEQnoVF_4TjFEuRhg4GkelFi-jNf-c-auOkJZ1wYep7HtV-IoqPnR3VXudkTfE8_HQCmZPtsV63SObtnDY-Nbb4JDNU34p4Qgx3mXKoniSDLJAbHfr18/s1600/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000000"
+}
