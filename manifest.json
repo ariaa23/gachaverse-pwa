@@ -14,9 +14,22 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": "https://www.gachaverse.id/",
+  "scope": "https://www.gachaverse.id/",
   "background_color": "#ffffff",
   "display": "standalone",
-  "scope": "/",
-  "theme_color": "#000000"
+  "theme_color": "#000000",
+  "screenshots": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE38tFl_zUmNeFN5tSfz3CBd3hjTUyqO86Uqc22o0b52GEbRBgEWx2XzeZa98wejUWp7rqpnD9SBOqbhovtGzc82W2nVPGCZEJsMkDAtf1kPwSmkgVcmaMBdomX5vEmZzraXPIbMbeP2hZbJqLYvDuTLduaUAx_Khw7rgOnVhHaiJgT7HqXmpPTCSsrDo/s1600/desktop%20ss.png",
+      "sizes": "1280x800",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL8I6Neob7tO9Ht7slfOnPt6naSsLwMMXUobaaLwwFdGeNgnhYMOEsYmoL5wFqlWndCbGCHsUp1jobeO_Jdw99CZMHJlo9EfXdqkCdDwSErzaaomRKH1BRy755HijtbZQHo-oweCWXJupntiXxNE5oe6NVlNcqUh-iRUt1h4OQPs7nYXx3IiSTxksef8k/s1600/ss%20mobile.jpg",
+      "sizes": "750x1334",
+      "type": "image/jpeg"
+    }
+  ]
 }
